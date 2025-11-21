@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "SkillUpPlus 2030+",
+    "slug": "skillupplus-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
